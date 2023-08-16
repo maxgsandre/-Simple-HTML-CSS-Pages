@@ -18,7 +18,15 @@ a {
 }
 
 .button-header {
-    
+    background: #665AE1;
+    border-radius: 20.5px;
+    width: 130px;
+    height: 41px;
+    border: none;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
 }
 
 .logo-img {
