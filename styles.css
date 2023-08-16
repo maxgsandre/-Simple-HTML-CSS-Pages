@@ -1,0 +1,28 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 40px 0 144px 76px;
+}
+
+a {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+    color: #989D9C;
+    margin-right: 23px;
+}
+
+.button-header {
+    
+}
+
+.logo-img {
+    width: 568px;
+    height: 500px;
+}
+
