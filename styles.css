@@ -38,6 +38,7 @@ a {
 
 section {
     display: inline-block;
+    margin-left: 86px;
 }
 
 h1 {
@@ -60,6 +61,8 @@ p {
     line-height: 29px;
     color: #848484;
     width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
 }
 
 .button-main {
